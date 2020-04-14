@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "MarinaDB"
-title_separator          : "-"
+title_separator          : "Speech Deeplearning"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyerim Baek (Marina)"
 description              : "An amazing website."
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyerim Baek (Marina)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**Speech** Deep learning"
   location         : "Seoul, South Korea"
   email            : hreeee@yonsei.ac.kr
   links:
