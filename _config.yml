@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "MarinaDB"
-title_separator          : "Speech Deeplearning"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : " "
+subtitle                 : "Algorithm, Deeplearning"
 name                     : "Hyerim Baek (Marina)"
-description              : "An amazing website."
+description              : "all of Speech Deeplearning"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
