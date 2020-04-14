@@ -104,19 +104,19 @@ author:
       # url: mailto:hreeee@yonsei.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://hreeeemarina.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/baekhr.marina"
+      url: "https://www.facebook.com/baekhr.marina"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/hree_marina/"
+      url: "https://www.instagram.com/hree_marina/"
 
 # Site Footer
 footer:
